@@ -56,7 +56,12 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelhamid&show_icons=true&theme=radical" alt="Abdelhamid's GitHub stats" />
+<h3 align="left">🏅 Achievements & Focus:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-Passion-blue?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-Expert-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Lover-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Interested-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Always-Learning-informational?style=flat&logo=bookstack&logoColor=white" />
 </p>
+
